@@ -1,0 +1,6 @@
+nodejs
+pymongo
+js.angular
+sonarqube-py
+sonar-scanner
+python-git
